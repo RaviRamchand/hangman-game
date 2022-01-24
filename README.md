@@ -6,5 +6,5 @@ Hangman-Game is a console based hangman game where users can select one of the t
 ### Right Answer 
 ![right-answer](https://github.com/RaviRamchand/hangman-game/blob/main/pictures/pizza.png)
 
-## Wrong Answer 
+### Wrong Answer 
 ![wrong-answer](https://github.com/RaviRamchand/hangman-game/blob/main/pictures/incorrect.png)
